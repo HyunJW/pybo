@@ -25,7 +25,7 @@ SECRET_KEY = 'w4rpm_z!9s493#@#aw#s-^3pzk6!d((odj52ux*y-eageldlcb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['13.125.42.74']
 
 
 # Application definition
